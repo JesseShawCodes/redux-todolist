@@ -1,6 +1,4 @@
-#Redux To-Do list demo
-
-
+# Redux To-Do list demo
 
 This project was bootstrapped with [Create React App](https://github.com/facebookincubator/create-react-app).
 
